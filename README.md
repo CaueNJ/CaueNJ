@@ -1,16 +1,22 @@
 
-<p align="center">In progress...</p>&nbsp;
+<p align="center">
+ <img src="https://github.com/user-attachments/assets/7fb1171a-409d-4abf-9688-91089fdb48b8" min-width="450px" max-width="450px" width="450px">
+</p>
 
-<div  align="center" style="margin-bottom:100px">
- </div>
+
+<div  align="center">
+  <p>My main goal is to improve people's lives through technology.</p>
+  <p>Therefore, I'm always looking for the best ideas to solve the worst problems.</p>
+  <sup>Meu principal objetivo é melhorar a vida das pessoas através da tecnologia. Portanto, estou sempre em busca das melhores ideias para resolver os piores problemas.</sup>
+</div>
+
  
- &nbsp;
- &nbsp;
-
 
 ## My Skills
 
 #### Proficiencies:
+
+<img src="https://github.com/user-attachments/assets/48eaa713-7a3c-41b6-9851-ee02d64efe96" min-width="200px" max-width="200px" width="200px" align="right">
 
 ![PL/SQL](https://img.shields.io/badge/PLSQL-F80000?style=for-the-badge&logo=oracle&logoColor=black)&nbsp;
 ![Tasy EMR](https://img.shields.io/badge/Tasy%20EMR-006bd1?style=for-the-badge&logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAB4AAAAeCAMAAAAM7l6QAAAChVBMVEUAa9EAN2sALFYAL1sALloAbNMAZsgAJksAV6sAVqgAV6oAWKsAV6kAVqkAWKwAKVAAZscAbNQAZsYAMV8Acd0Act4AduYAct8AcNsAb9gAcdwAcNwAcNoAdeQAdOQAdeUANGUAZcUAZMQANWcAQoEADhsAKlMAUZ8AMF0AWrAALVcASpEAOnEAPXYAZcYAJUkAFSkAHDcAU6IANmoAGTEAYLwANGYAZMMAOG4AJEYAEiMAJEcAFisAHzwAQoAAN2wAMmIAFCYAUZ4AGTAAJ0wACBAAIUAAas8AM2MANWgAAwYAHjsAR4wAESEAK1QAYLsAFCgAVaYABgwAEyUARIQAAAAAOnIAY8IALlsAdOMAXbYALVgAW7EAOG0ASI0ADRkAPXcAIkMAb9kAJkkAbdUAa9IAatAAbNIAac4Aa9AAbtcAbdQAMWAAdOIAbtgAYb4AWa4AWq8AbtYAac0Ac+EAY8EAJEUAKE0ALVkAJ00AMmEAPngAGjMATZYAZ8gAd+gAYr8ARYYAO3MALFcANmkAVKQAFCcARYgAIUEARIUAZ8oAd+kAR4oAGzYAWa0AChQAS5IAX7oAJkoAQ4IAMF4AL1wARokABAgAas4AGjQAMmMAZcQASpAAgPoAfPIAID4AaMsAR4sAOnAATJQATpkAcuAAUJwAd+cAMF8AKU8AW7IAVacAPHYAI0QAHjoAIT8AKE4ALFUAKVEAIkIAM2QAZ8kAKlIAKlEALlkAOXAASIwAJUgAQX8AbdYAYb0AUqEAEiQAPnoAQH4AHz0AK1MAcd4ATZcAaMwAacwAK1UAI0UAUJsABQkAL10Ac+AAP3oAKE8AID8Ab9oAX7kASY8AO3QAXrcX7iSeAAAC5klEQVQoz2NgAAJGJmYWNMDMxMgAAaxs7BwcnFzc3BzcHBwcIJKHh5eLj1+AFSwtKCQsIiomLiEpIiElLSUjIiEiKycvJaKgKAiRVlJWUVVT19DU0tZR0dXT1zQwNDI2MTWDSZtbaFhaWdsY2tpp2TsIODo5u6i6url7wKXtPb28fXxtbVW0LPz8AwKDgkM4Q+3DwmGGG+tGREZFx2hpx8bFJ2jxJrIlJfsGGitBpQWYWVNS09Iz0jKzZJJS0jMEs9PMM6Ry9ODS6ZmZDBkpuXn5BYX5KblFxQzZDOkOSNIMme4lpRZl5SwV/JWx/rnu7pmCVUjSaQwi1TW1FnX1EkUNjW5NUunu2UjSqQx5zdEtrW0eppnuKSVFOS6SDKxI0mniDu2yHaYdnV0MDJkZmd32/OIMCOnokp7evpb+CcwTJdKAApnFYpMmR06BSQtNTUucZtExXa1zYnrajAx3hrSihpkMs2ChNrtlTtjceazzS0RZi1PExUVYMxaUsCxcZA4PNQWVxSFLGJdmy4g2zAlZVieatJxzhQ5UmlXPzNpQbaV1pfqq1WvKOizXNjcG8jCuNVaExHd616x167Wiq5jZN7ioTYlgYd64adKGzeu2bIVIM8wwW+emrLBNfxtTxSbLaAWW7X47chLXKRSngmXdU3YmqpdkKe5ist7QFJMtmTJ1KksF825jwTSwdIbInpWTxRdki+9VLBZNYmCQdZghEqm+fY1UBkS3yDKNbalpDDPSBFMzMhfs23/g4P6onGZt8RnQtJoxhemQ/AIQKzOlYPd8rzazwyxH2KAuY3A/ekxLvzXyeCZQOkvJs37dghNVJ3vgmhlmiOqwnDotW5RRzLDK5YzwpMVnWbaIuDPAQWaS8jZLe3+JpaLnzHfsc6lknro3NRNJmkHi/O61icJ7tGt7Jm1jutCUxJrGgAQy3c8VmrG7Hb7YkejCr8B1LjOTARUUXxK9fOWqsnKTzzURiWKYKADv0d8Wsi4tEwAAAABJRU5ErkJggg==)&nbsp;
@@ -40,9 +46,9 @@
 <div> 
 <a href = "mailto:caue.nj@gmail.com"> <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 <a href="https://www.linkedin.com/in/cau%C3%AA-nandi-joaquim-a09222198/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"  target="_blank"></a> 
-</div>&nbsp;&nbsp;
+</div>
  
 
   
   
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=8F0D87&height=120&section=footer"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&height=150&color=258609&section=footer&reversal=false&descAlignY=0&descAlign=0&fontAlign=0&fontAlignY=0"/>
